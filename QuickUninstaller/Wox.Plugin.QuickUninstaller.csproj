@@ -1,6 +1,6 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net5.0-windows10.0.19041.0</TargetFramework>
+    <TargetFramework>net5.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
     <OutputType>Library</OutputType>
     <RootNamespace>QuickUninstaller</RootNamespace>
@@ -15,7 +15,14 @@
     <OutputPath>..\Output\Debug\Wox.Plugin.QuickUninstaller</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Images\*.png" />
+    <Content Include="Images\*.png" >
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="plugin.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Flow.Launcher.Plugin" Version="2.0.0" />
