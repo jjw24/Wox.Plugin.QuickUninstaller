@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Diagnostics;
 using Microsoft.Win32;
-using Wox.Plugin;
+using Flow.Launcher.Plugin;
 
 namespace QuickUninstaller
 {
