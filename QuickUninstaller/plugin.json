@@ -1,0 +1,12 @@
+{
+    "ID":"095A6AE3A255532EAAD78F05A71D4981",
+    "ActionKeyword":"unin",
+    "Name":"Quick Uninstaller",
+    "Description":"A Wox plugin for effectively uninstall experience.",
+    "Author":"Hogan Lee",
+    "Version":"2.0.0",
+    "Language":"CSharp",
+    "Website":"http://www.wox.one/plugin",
+    "ExecuteFileName":"Wox.Plugin.QuickUninstaller.dll",
+    "IcoPath":"Images\\UninstallerIcon.png"
+}

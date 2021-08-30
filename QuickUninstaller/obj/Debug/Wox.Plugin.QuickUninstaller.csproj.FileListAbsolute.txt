@@ -1,8 +1,0 @@
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\bin\Debug\Wox.Plugin.QuickUninstaller.dll
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\bin\Debug\Wox.Plugin.QuickUninstaller.pdb
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\bin\Debug\Wox.Plugin.dll
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\obj\Debug\Wox.Plugin.QuickUninstaller.csprojAssemblyReference.cache
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\obj\Debug\Wox.Plugin.QuickUninstaller.csproj.CoreCompileInputs.cache
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\obj\Debug\Wox.Plugin.QuickUninstaller.csproj.CopyComplete
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\obj\Debug\Wox.Plugin.QuickUninstaller.dll
-C:\Users\lihao\Source\Repos\h0gan1ee\Wox.Plugin.QuickUninstaller\QuickUninstaller\obj\Debug\Wox.Plugin.QuickUninstaller.pdb
