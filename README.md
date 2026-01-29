@@ -1,5 +1,9 @@
 # QuickUninstaller
 
+This plugin is now superseded by [Uninstaller+](https://github.com/Jack251970/Flow.Launcher.Plugin.UninstallerPlus). From [flow](https://flowlauncher.com) type `pm install Uninstaller+`
+
+-------------------
+
 This is a port of the Wox plugin [Wox.Plugin.QuickUninstaller](https://github.com/h0gan1ee/Wox.Plugin.QuickUninstaller) created by Hogan Lee (@h0gan1ee).
 
 This port is intended to be used for [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher). It will not work for Wox.
